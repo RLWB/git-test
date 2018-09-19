@@ -4,4 +4,5 @@ var diff = function() {
     console.log('third commit!');
     console.log('branch first commit!');
     console.log('branch second commit!');
+    console.log('branch master fourth commit!');
 }
